@@ -1,5 +1,5 @@
 # deal-finder-python
-Deal finder application using the BeautifulSoup, Requests and Pandas modules.
+Deal finder application using the Beautiful Soup, Requests, Pandas and many other modules - these modules can be found in requirements.txt.
 
 run pip install -r ./dir/to/requirements.txt to install the dependencies of the program.
 
